@@ -1,4 +1,4 @@
-package Java101Basic;
+package Java101Basic.MathExamples;
 import java.util.Scanner;
 
 public class PrintNumbers {
